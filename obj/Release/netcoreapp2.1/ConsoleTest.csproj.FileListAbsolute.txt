@@ -1,0 +1,11 @@
+C:\Users\Lingga\source\repos\ConsoleTest\ConsoleTest\bin\Release\netcoreapp2.1\ConsoleTest.deps.json
+C:\Users\Lingga\source\repos\ConsoleTest\ConsoleTest\bin\Release\netcoreapp2.1\ConsoleTest.runtimeconfig.json
+C:\Users\Lingga\source\repos\ConsoleTest\ConsoleTest\bin\Release\netcoreapp2.1\ConsoleTest.runtimeconfig.dev.json
+C:\Users\Lingga\source\repos\ConsoleTest\ConsoleTest\bin\Release\netcoreapp2.1\ConsoleTest.dll
+C:\Users\Lingga\source\repos\ConsoleTest\ConsoleTest\bin\Release\netcoreapp2.1\ConsoleTest.pdb
+C:\Users\Lingga\source\repos\ConsoleTest\ConsoleTest\obj\Release\netcoreapp2.1\ConsoleTest.csprojAssemblyReference.cache
+C:\Users\Lingga\source\repos\ConsoleTest\ConsoleTest\obj\Release\netcoreapp2.1\ConsoleTest.csproj.CoreCompileInputs.cache
+C:\Users\Lingga\source\repos\ConsoleTest\ConsoleTest\obj\Release\netcoreapp2.1\ConsoleTest.AssemblyInfoInputs.cache
+C:\Users\Lingga\source\repos\ConsoleTest\ConsoleTest\obj\Release\netcoreapp2.1\ConsoleTest.AssemblyInfo.cs
+C:\Users\Lingga\source\repos\ConsoleTest\ConsoleTest\obj\Release\netcoreapp2.1\ConsoleTest.dll
+C:\Users\Lingga\source\repos\ConsoleTest\ConsoleTest\obj\Release\netcoreapp2.1\ConsoleTest.pdb
